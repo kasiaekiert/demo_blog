@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Based on: https://www.youtube.com/watch?v=mpWFrUwAN88&t=1s 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails 7
+Css
+Some additional new pins
+Email Notifications with ActionMailer 
+Live Updates via Websockets 
